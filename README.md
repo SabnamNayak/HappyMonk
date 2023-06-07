@@ -1,6 +1,6 @@
 # HappyMonk Assignment
 # Neural Network Model with Adaptive Activation (Ada-Act)
-[scikit-optimize](https://scikit-optimize.github.io/stable/)
+[Click Here]([https://scikit-optimize.github.io/stable/](https://github.com/SabnamNayak/HappyMonk/blob/main/activation_function.ipynb))
 
 The code implements a 1-hidden layer neural network model that adapts its activation function based on the dataset. The activation function used is called Ada-Act (Adaptive Activation). It follows a flexible functional form of `k0 + k1 * x`, where `k0` and `k1` are parameters that are learned from multiple runs of the algorithm.
 
