@@ -1,5 +1,6 @@
 # HappyMonk Assignment
 # Neural Network Model with Adaptive Activation (Ada-Act)
+[scikit-optimize](https://scikit-optimize.github.io/stable/)
 
 The code implements a 1-hidden layer neural network model that adapts its activation function based on the dataset. The activation function used is called Ada-Act (Adaptive Activation). It follows a flexible functional form of `k0 + k1 * x`, where `k0` and `k1` are parameters that are learned from multiple runs of the algorithm.
 
@@ -21,6 +22,7 @@ The code also includes helper functions for loading and preparing the dataset, c
 Overall, the code aims to create a neural network model that dynamically adapts its activation function using the Ada-Act approach, allowing it to learn the most suitable activation function for a given dataset.
 
 ## Automating the Selection of Activation Function
+[scikit-optimize](https://scikit-optimize.github.io/stable/)
 
 To automatically determine the best activation function without using grid search or brute force, you can consider using a meta-learning approach or an optimization algorithm. One popular approach is to use a meta-learning algorithm called Bayesian Optimization. Bayesian Optimization is an efficient and effective method for optimizing hyperparameters based on a probabilistic model of the objective function.
 
