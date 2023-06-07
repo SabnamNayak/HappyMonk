@@ -22,7 +22,7 @@ The code also includes helper functions for loading and preparing the dataset, c
 Overall, the code aims to create a neural network model that dynamically adapts its activation function using the Ada-Act approach, allowing it to learn the most suitable activation function for a given dataset.
 
 ## Automating the Selection of Activation Function
-[scikit-optimize](https://scikit-optimize.github.io/stable/)
+[Click Here...]([https://scikit-optimize.github.io/stable/](https://github.com/SabnamNayak/HappyMonk/blob/main/tried_error.ipynb))
 
 To automatically determine the best activation function without using grid search or brute force, you can consider using a meta-learning approach or an optimization algorithm. One popular approach is to use a meta-learning algorithm called Bayesian Optimization. Bayesian Optimization is an efficient and effective method for optimizing hyperparameters based on a probabilistic model of the objective function.
 
